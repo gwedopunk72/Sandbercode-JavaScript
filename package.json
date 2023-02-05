@@ -1,0 +1,14 @@
+{
+  "name": "javabasic",
+  "version": "1.0.0",
+  "description": "Belajar Javascript Sanbercode",
+  "main": "start.js",
+  "scripts": {
+    "test": "node input.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
